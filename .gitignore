@@ -1,0 +1,6 @@
+# ignore built files
+/build/*
+
+# ignore unnecessary files
+/.metadata/*
+.mxproject
